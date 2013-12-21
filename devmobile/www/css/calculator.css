@@ -7,10 +7,10 @@
 
 /* Using box shadows to create 3D effects */
 #calculator {
-	width: 285px;
+	width: 399px;
 	height: auto;
 
-	margin: 100px auto;
+	margin: 80px auto;
 	padding: 20px 20px 9px;
 
 	background: #04819E;
@@ -26,8 +26,8 @@
 
 /* Inset shadow on the screen to create indent */
 .calc_top .calc_screen {
-	height: 40px;
-	width: 185px;
+	height: 56px;
+	width: 259px;
 
 	float: right;
 
@@ -57,8 +57,8 @@
 
 	cursor: pointer;
 
-	width: 66px;
-	height: 36px;
+	width: 93.8px;
+	height: 50.4px;
 
 	background: white;
 	border-radius: 3px;
@@ -67,7 +67,7 @@
 	margin: 0 7px 11px 0;
 
 	color: #888;
-	line-height: 36px;
+	line-height: 50.4px;
 	text-align: center;
 
 	/* prevent selection of text inside keys */
